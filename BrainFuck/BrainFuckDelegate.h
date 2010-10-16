@@ -3,7 +3,7 @@
 //  brainf4ck
 //
 //  Created by Tamas Zsar on 2010.10.16..
-//  Copyright 2010 Ustream.tv. All rights reserved.
+//  Copyright 2010 0xcefaedfe.com. All rights reserved.
 //
 
 @class BrainFuck;
